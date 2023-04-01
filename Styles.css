@@ -61,13 +61,15 @@ body .head-plate .top-inner{
   font-weight: 600;
 }
 .block1{
-  border: 1px solid black;
+  border-top: 1px solid black;
 }
 .block2{
-  border: 0.5px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  
 }
 .block3{
-  border: 1px solid black;
+  border-bottom: 1px solid black;
 }
 .Thumbnail1{
   display: flex;
